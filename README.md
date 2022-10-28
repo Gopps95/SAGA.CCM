@@ -34,4 +34,4 @@ Instructions for setting up project
 Instructions for running
 
 ## Other Links
-Provide any other links ( for eg. Wireframe , UI )
+Link to our survey : https://docs.google.com/spreadsheets/d/1Sop5SRfTsQxv2ZgV3RWuqnpdXSoJt-tnT9GIL6lavoc/edit?usp=sharing
