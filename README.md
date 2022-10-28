@@ -35,3 +35,4 @@ Instructions for running
 
 ## Other Links
 Link to our survey : https://docs.google.com/spreadsheets/d/1Sop5SRfTsQxv2ZgV3RWuqnpdXSoJt-tnT9GIL6lavoc/edit?usp=sharing
+Responses : https://docs.google.com/forms/d/1HL-RR2mgZnRf0dCt6RxXXvezhI7YdjEIQgq0Ttp6n6A/edit#responses
