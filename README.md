@@ -25,7 +25,7 @@ CSS
 jS
 Django
 Google Cloud
-ML
+ML-GPT3
 
 ## How to configure
 Instructions for setting up project
