@@ -13,11 +13,11 @@ The goal of our product is to break the taboo by empowering the client to diagno
 [4.Ameesha Arackal](https://github.com/AMEESHAARACKAL)   
 
 ## Link to Project
-(https://SAGACCM.steffysenson.repl.co)
+https://SAGACCM.steffysenson.repl.co
 https://gopishankar.me/SAGA.CCM/
 
 ## How it Works ?
-(https://www.loom.com/share/2f9b70bc8f0b43aa9f06a64ce5e64c06)
+https://www.loom.com/share/2f9b70bc8f0b43aa9f06a64ce5e64c06
 
 ## Technologies used
 Html
@@ -34,5 +34,5 @@ Click on the link provided and visit our site.
 Click on the link provided.
 
 ## Other Links
-Link to our survey : https://docs.google.com/spreadsheets/d/1Sop5SRfTsQxv2ZgV3RWuqnpdXSoJt-tnT9GIL6lavoc/edit?usp=sharing
+Link to our survey : https://docs.google.com/spreadsheets/d/1Sop5SRfTsQxv2ZgV3RWuqnpdXSoJt-tnT9GIL6lavoc/edit?usp=sharing <br>
 Responses : https://docs.google.com/forms/d/1HL-RR2mgZnRf0dCt6RxXXvezhI7YdjEIQgq0Ttp6n6A/edit#responses
